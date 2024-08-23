@@ -149,6 +149,7 @@ Split the dataset:
 ![output](10.png)
 
 Training and testing model:
+
 ![output](11.png)
 
 
