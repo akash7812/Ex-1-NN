@@ -115,25 +115,41 @@ print("\nLenght of X_test ",len(X_test))
 
 ## OUTPUT:
 Data checking:
+
 ![output](1.png)
+
 Missing Data:
+
 ![output](4.png)
+
 Duplicates identification:
+
 ![output](6.png)
 
+
 Values of 'Y':
+
 ![output](3.png)
 
+
 Outliers:
+
 ![output](7.png)
+
 Checking datasets after dropping string values data from dataset:
 
 ![output](8.png)
+
 Normalize the dataset:
+
 ![output](9.png)
+
 Split the dataset:
+
 ![output](10.png)
+
 Training and testing model:
+
 ![output](11.png)
 
 
